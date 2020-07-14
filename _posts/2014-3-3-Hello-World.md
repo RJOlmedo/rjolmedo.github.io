@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: Valienete el gay
 published: true
 ---
 # Valiente es maricon y su hermano se la chupa
