@@ -9,7 +9,7 @@ Soy un joven de 18 años que esta por empezar su vida universitaria. Busco por m
 
 Me considero un fiel creyente en que el camino al éxito esta pavimentado con fracasos, y es por ello que debemos de aprender de ellos.
 
-Por esto cree este blog en el que encontraras artículos sobre motivación superación, desarrollo personal entre otros. Todo el contenido de esta página es original y todos los artículos son producidos 100% por mi, tomando inspiración de libros, conferencias que consumo diario.
+Por esto cree este blog en el que encontraras artículos sobre motivación superación, desarrollo personal entre otros. Todo el contenido de esta página es original y todos los artículos son producidos 100% por mi, tomando inspiración de libros, conferencias y conferencias que consumo diario.
 
 ### ¡Sígueme en mis redes!
 
