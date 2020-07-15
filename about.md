@@ -15,6 +15,6 @@ Por esto cree este blog en el que encontraras artículos sobre motivación super
 
 Próximamente mas contenido en mis redes sociales, si te gustan mis artículos sígueme como @rj_olmedo en Instagram y Twitter.
 
-### Si tienes algun comentario sientete libre de escribirme a mi correo
+### Si tienes algun comentario sientete libre de escribirme a mi correo:
 
 [rjolmedo.contacto@gmail.com](mailto:rjolmedo.contacto@gmail.com)
