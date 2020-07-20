@@ -10,7 +10,7 @@ Parece que constantemente estamos buscando nuestros defectos y sintiéndonos mal
 Tus imperfecciones son lo que te hacen único, por lo cual debes de sentirte bien por ser como eres. Debes buscar presentarlas de tal manera que se vuelvan tu distintivo y se conviertan en parte esencial de tu persona, tal y como una pieza de cerámica _Kintsugi_.
 
 
-![Pieza de cerámica Kintsugi]({{site.baseurl}}/_posts/Kintsugi-bowl-honurushi-number-32.jpg)
+![Pieza de cerámica Kintsugi]({{site.baseurl}}/_posts/ae9f39aca6dd252828b633898ce9033a.jpg)
 
 
 Kintsugi es una técnica japonesa de restauración de cerámica, la cual consiste en juntar las partes rotas con un pegamento a base de oro. Esta técnica como podrán ver se enfoca en resaltar las imperfecciones de esta pieza. El propósito de esta técnica no es regresar la pieza de la manera original, sino que regresarla como una pieza única.
