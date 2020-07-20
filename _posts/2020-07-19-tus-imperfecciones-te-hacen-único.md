@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Parece que constantemente estamos buscando nuestros defectos y sintiéndonos mal por como somos. Queremos ser aquella persona que le caiga bien a todos y que tenga muchos amigos. Tendemos a compararnos con los demás física, social y mentalmente, llevándonos de esta manera a sentirnos inseguros de nosotros mismos y no aceptarnos como somos.
 
@@ -15,6 +15,3 @@ Kintsugi es una técnica japonesa de restauración de cerámica, la cual consist
 
 
 Así como se hace en el Kitsugi, intenta hacer resaltar tus imperfecciones. Se tu mayor crítico date cuenta de lo que puedes estar haciendo mal y utiliza esto de base para mejorar y construir una mejor persona, una persona única.
-
-
-
