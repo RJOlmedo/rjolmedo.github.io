@@ -17,3 +17,6 @@ Al atravesar un _bache_, es importante tener en consideración que siempre vas a
 Cuando te encuentras en un bache estas tocando fondo, por lo que lógicamente el único camino es hacia arriba. Muchas veces cuando hemos atravesado un fracaso, puede ser que tengamos miedo de intentar de nuevo, pero si ya has tocado fondo y no tienes nada que perder, ¿que estas esperando?
 
 El atravesar malos momentos en nuestra vida y sentirnos derrotados es totalmente normal y es algo que todos hemos atravesado. Debemos de buscar la manera de aprender de este tipo de situaciones para poder mejorar la manera en la cual las manejamos. Sobretodo tenemos que tener en cuenta que estos son momentos de transición que nos ponen a prueba para poder ser mejor.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
+
