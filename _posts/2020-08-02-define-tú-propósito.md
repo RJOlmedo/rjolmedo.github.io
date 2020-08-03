@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Persona viendo el horizonte prosperamente.]({{site.baseurl}}/images/Hombre viendo el horizonte.jpg)
 
