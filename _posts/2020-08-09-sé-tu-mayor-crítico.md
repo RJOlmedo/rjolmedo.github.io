@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Persona viendo su reflejo..]({{site.baseurl}}/images/Autocrítica.jpg)
 
