@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![Persona viendo su reflejo.]({{site.baseurl}}/images/Autocritica.jpg)
+![Persona viendo su reflejo..]({{site.baseurl}}/images/Autocrítica.jpg)
 
 
 Uno de los mayores miedos del ser humano es el miedo a que lo critiquen. El hecho de que nos sintamos inseguros alimenta a este miedo y nos hace sentirnos mal por como somos. Muchas veces, lo anterior se convierte en un gran obstáculo que se interpone entre nosotros y nuestras metas.
@@ -17,3 +17,5 @@ Escúchate a ti, no te compares con los demás aunque muchas veces se nos haga d
 Trabaja en la autocrítica y se tu quien juzgue si está cumpliendo o no con lo que se ha propuesto. Esto te ayudará a sentirte más seguro de ti mismo y te permitirá distinguir cuando una crítica que sea dirigida hacia ti sea buena o mala.
 
 Es importante trabajar en un plan para poder ser mejor cada día, y sobre todo analizar si estamos haciendo lo correcto para poder ver si llegamos a nuestras metas. El no tener metas hará que caigamos en la inseguridad y la comparación, porque veremos que nosotros no estamos llegando a nada. Trabaja en ti e inspira a otros a hacer lo mismo.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
