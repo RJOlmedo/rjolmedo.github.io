@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![Persona viendo su reflejo..]({{site.baseurl}}/images/Autocrítica.jpg)
+![Persona viendo su reflejo.]({{site.baseurl}}/images/Autocritica.jpg)
 
 
 Uno de los mayores miedos del ser humano es el miedo a que lo critiquen. El hecho de que nos sintamos inseguros alimenta a este miedo y nos hace sentirnos mal por como somos. Muchas veces, lo anterior se convierte en un gran obstáculo que se interpone entre nosotros y nuestras metas.
