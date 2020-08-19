@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Soy un joven de 18 años que esta por empezar su vida universitaria. Busco por medio de este blog compartir lo que he aprendido en mi corta vida y de esta forma ver si te puedo ayudar.
+Soy un joven de 18 años y futuro ingeniero de software. Busco por medio de este blog compartir lo que he aprendido en mi corta vida y de esta forma ver si te puedo ayudar.
 
 Me considero un fiel creyente en que el camino al éxito esta pavimentado con fracasos, y es por ello que debemos de aprender de ellos.
 
