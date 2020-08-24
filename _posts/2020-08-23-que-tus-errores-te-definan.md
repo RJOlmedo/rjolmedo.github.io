@@ -14,7 +14,7 @@ Para poder empezar a hacer esto, la próxima vez que las cosas no están saliend
 ![Lewandowski despues de tanto esfuerzo gano la Champions y esta siendo considerado el mejor jugador de la temporada.]({{site.baseurl}}/images/lewy.jpg)
 
 
-Ahora si podemos dejar que nuestros errores nos definen, porque errores los cometemos todos, pero lo importante es saber cómo reaccionar cuando estos pasan. En vez de estar pensando constantemente, tal vez fuera mejor que nos preparamos para poder aprender de ellos.
+Ahora si podemos dejar que nuestros errores nos definen, porque errores los cometemos todos, pero lo importante es saber cómo reaccionar cuando estos pasan. En vez de estar pensando constantemente en los errores que cometimos, tal vez fuera mejor que nos preparamos para poder aprender de ellos.
 
 Es normal sentirse mal por cosas que hicimos, pero al final si pasamos lamentándonos sobre lo que ya pasó, simplemente perderemos el tiempo. Miremos hacia adelante e intentemos poner de nuestra parte, y si nos equivocamos aprendamos de ello.
 
