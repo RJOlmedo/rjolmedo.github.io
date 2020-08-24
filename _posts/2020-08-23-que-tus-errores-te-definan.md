@@ -17,3 +17,5 @@ Para poder empezar a hacer esto, la próxima vez que las cosas no están saliend
 Ahora si podemos dejar que nuestros errores nos definen, porque errores los cometemos todos, pero lo importante es saber cómo reaccionar cuando estos pasan. En vez de estar pensando constantemente, tal vez fuera mejor que nos preparamos para poder aprender de ellos.
 
 Es normal sentirse mal por cosas que hicimos, pero al final si pasamos lamentándonos sobre lo que ya pasó, simplemente perderemos el tiempo. Miremos hacia adelante e intentemos poner de nuestra parte, y si nos equivocamos aprendamos de ello.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
