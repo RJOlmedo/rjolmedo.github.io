@@ -20,4 +20,3 @@ La vida es incierta, pero si nos enfocamos en lo que podemos cambiar y luchamos 
 
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
 
-##### En memoria de Julian Rivera.
