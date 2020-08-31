@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Apoyandose para seguir luchando]({{site.baseurl}}/images/luchar.jpg)
 
@@ -19,3 +19,5 @@ Sueña, y más que soñar créetelo, cree que vas a lograr lo inimaginable porqu
 La vida es incierta, pero si nos enfocamos en lo que podemos cambiar y luchamos para poder alcanzar lo que nos proponemos, podemos satisfacer ese vació que muchas veces sentimos. Ya que como una gran persona alguna vez dijo: “La lucha es difícil, pero no hay mejor regalo que la satisfacción de luchar…”
 
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
+
+##### En memoria de Julian Rivera.
