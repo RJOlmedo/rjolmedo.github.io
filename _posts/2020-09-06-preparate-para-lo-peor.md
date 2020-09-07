@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![estoico]({{site.baseurl}}/images/estoico.jpg)
 
@@ -17,3 +17,5 @@ Al sumergirnos en lo peor que podría pasar, de cierta manera vivimos en nuestra
 Para poder aprender a escoger mejor una decisión hay que encontrar el balance perfecto entre pensar lo suficiente, pero no llegar a sobre pensar, porque luego solo nos quedamos en la idea y tardamos tanto en decidirnos que no nos da tiempo para ejecutar. Pero es con el _Premeditatio malorum_ que conseguimos _**prepararnos para lo peor, esperando lo mejor**_.
 
 Al final esa manera de pensar es tan solo una lección de que el esfuerzo trae recompensas, ya que el pensar mucho y no ejecutar, puede ser la opción más cómoda, pero el entrenar nuestra mente para tomar riesgos, es lo que nos recompensa más al final.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
