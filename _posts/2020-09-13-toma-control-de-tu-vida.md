@@ -19,6 +19,6 @@ En semanas anteriores hemos hablado de la importancia del propósito y el cómo 
 La opinión de los demás pueden afectar nuestra toma de decisiones, pero si tomamos el control de nuestra vida, podemos llegar a ser auténticos. Nuestra vida no es una casualidad en base a lo que pasa a nuestro alrededor, nuestra vida es una **causalidad**, venimos aquí para cumplir **nuestro propósito y hacer de este mundo un lugar mejor.**
 
 ## _“It’s hard to dream when you’re deep inside of one”_
-	- Malcolm McCormick
+- Malcolm McCormick
 
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
