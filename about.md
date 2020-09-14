@@ -11,10 +11,8 @@ Me considero un fiel creyente en que el camino al éxito esta pavimentado con fr
 
 Por esto cree este blog en el que encontraras artículos sobre motivación superación, desarrollo personal entre otros. Todo el contenido de esta página es original y todos los artículos son producidos 100% por mi, tomando inspiración de libros, conferencias y conferencias que consumo diario.
 
-### ¡Sígueme en mis redes!
-
+##  ¡Sígueme en mis redes!
 Próximamente mas contenido en mis redes sociales, si te gustan mis artículos sígueme como @rj_olmedo en Instagram y Twitter.
 
-### Si tienes algun comentario sientete libre de escribirme a mi correo:
-
+##  Si tienes algun comentario sientete libre de escribirme a mi correo:
 [rjolmedo.contacto@gmail.com](mailto:rjolmedo.contacto@gmail.com)
