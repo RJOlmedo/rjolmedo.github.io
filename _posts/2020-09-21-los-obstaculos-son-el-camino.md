@@ -16,4 +16,3 @@ Tenemos que entender que no todo placer es bueno, ni todo dolor es malo, eso es 
 Así como dicen los miembros de Yes Theory: “Seek Discomfort”, hay que salir de nuestra zona de comfort y arriesgarnos y sufrir de vez en cuando. Esto forja nuestro carácter y hace que busquemos siempre ser mejor.
 
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
-
