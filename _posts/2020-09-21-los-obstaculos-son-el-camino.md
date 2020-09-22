@@ -14,3 +14,6 @@ Yyo siempre he dicho que las cosas pasan por algo por Farid Dieck, y que El cami
 Tenemos que entender que no todo placer es bueno, ni todo dolor es malo, eso es una manera hedonista y conformista de visualizar las cosas. Cuando tenemos esta perspectiva, al irnos mal en la vida y ver como a otros les esta yendo bien, nos sentiremos mal y nos victimizamos. Hay que entender que la felicidad, la tristeza y el dolor son solo transiciones que nos llevan a ser mejor personas y cumplir nuestro objetivo.
 
 Así como dicen los miembros de Yes Theory: “Seek Discomfort”, hay que salir de nuestra zona de comfort y arriesgarnos y sufrir de vez en cuando. Esto forja nuestro carácter y hace que busquemos siempre ser mejor.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
+
