@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Bradd Pitt como un stoner en True Romance]({{site.baseurl}}/images/brad.jpg)
 
