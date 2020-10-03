@@ -11,7 +11,7 @@ Creo que hay una explicación lógica a este fenómeno de intentar quemar gente 
 La gran realidad es que todos estamos de cierta manera mal, nuestras ideas no pasan de incorrectas a correctas, más bien pasan a ser **un poco menos incorrectas**. Es por esto anterior que en vez de buscar siempre tener la razón y censurar todo lo que esté a nuestro alrededor que difiera de nuestra opinión, debemos buscar cuestionarnos en busca de cada vez estar más cerca de la verdad.
 
 
-![El fanatismo en todo sentido es malo no importa la causa]({{site.baseurl}}/images/feminazis.jpg)
+![El fanatismo en todo sentido es malo no importa la causa]({{site.baseurl}}/images/feminazi.jpg)
 
 
 Yo he estado en el lado de las redes sociales del cual les hablo, me he peleado con gente en redes sociales porque no me gustaban sus ideas, pero la mera realidad es que el pelearse por redes sociales no lleva a ningún lado y el fanatismo, no importa cuál sea la causa está mal. En vez de juzgar a personas, debemos buscar cuestionar ideas y tener platicas sanas con tal de buscar llegar a la verdad, y es que en tiempos actuales el **conversar se ha vuelto un acto de rebeldía.**
