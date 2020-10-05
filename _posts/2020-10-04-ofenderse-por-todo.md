@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Cancelar gente por redes sociales descripción gráfica]({{site.baseurl}}/images/cancelCulture.jpg)
 
