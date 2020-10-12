@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Lazy People]({{site.baseurl}}/images/lazy.png)
 
