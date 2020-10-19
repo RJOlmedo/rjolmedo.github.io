@@ -1,7 +1,8 @@
 ---
-published: false
+published: true
 ---
 ![Todo lo que se le arroja al fuego, lo hace más grande.]({{site.baseurl}}/images/fire.jpg)
+
 
 Hay momentos en nuestra vida en los que nos preguntamos ¿Por que a mi?, pensamos que hay una especie de conspiración contra nosotros y es por ello que al parecer todo nos sale mal. Creemos que nuestra vida es horrible por sufrir o sentir dolor. Pero como muchas veces hemos visto en este blog, del sufrimiento nunca nos libramos.
 
@@ -16,3 +17,6 @@ Ante esto te voy a dar un consejo que capaz nunca has escuchado, confórmate. Co
 Para practicar lo que nos dice Nietzsche, hay un concepto estoico que se llama “Amor Fati”, es la idea de amar nuestro destino. Lo que tenemos que practicar y repetirnos constantemente, es la práctica de amar lo que nos pasa, no solo aceptarlo, no solo tolerarlo, pero amarlo. Decir, esto es para mi, yo lo escogí, lo deseo y es lo mejor que me pudo haber pasado. Cuando subes una tarea pasada la hora de entrega toca decir Amor Fati, cuando te regañan tus papás, cuando estás esperando en el tráfico, Amor Fati, voy a ser mejor porque esto me pasó.
 
 La mera realidad es que no sabemos qué nos depara en el futuro, no sabemos si será bueno o malo y no podemos depender de las emociones para lidiar con la vida, razonemos lo que nos pasa, tanto lo bueno como lo malo para poder aceptar nuestro destino y vivir para lo que fuimos creados. Porque bien decía Marco Aurelio, "Un fuego ardiente hace llama y brillo a partir de todo lo que se le arroja."
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
