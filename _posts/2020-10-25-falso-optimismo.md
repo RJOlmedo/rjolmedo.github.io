@@ -17,3 +17,6 @@ La verdad es que lo anterior no es optimismo, es lo que Eric Barker llama “Opt
 Para poder trabajar en esto, los estoicos ocupaban el _premeditatio malorum_, (del cuál ya he hablado por en [otro post](https://rjolmedo.github.io/preparate-para-lo-peor/)) de esta manera podían prever lo que podía salir mal, y así estar preparados para ello. Por lo tanto, con esta práctica, si salen bien o mal las cosas, ya estamos listos para poder continuar con nuestro camino y seguir mejorando. No se trata de buscar que las cosas no salgan mal, se trata de estar preparado para cuando las cosas salgan mal.
 
 Es bueno estar feliz, pero hay que saber valorar más este estado, ya que no es algo permanente, es más una transición. Se trata de enfocarnos en nosotros mismos, **dejar de lado a nuestro ego** y aceptar que a veces fallamos. Si algo puede salir mal, va a salir mal, entonces ¿por que no considerar los fallos y obstáculos? Analicemos de diferentes perspectivas el fracaso, porque bien dice Diego Ruzzarin, _Hay una delgada línea entre ser un optimista y ser un ignorante_.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
