@@ -17,3 +17,6 @@ Bien dice Ryan Holiday que “la muerte es la luz por la cual la sombra de todo 
 Tratemos todo en este mundo como si fuera prestado, desprendámonos de todo, cosas y personas, porque eventualmente si nosotros no lo hacemos la muerte nos obligará a hacerlo. Valoremos a nuestros amigos y seres queridos hoy, para no lamentarnos el día que se vayan y en vez agradecer porque pudimos disfrutar su presencia.
 
 Pensemos un momento y nos daremos cuenta de que la muerte es el mayor de nuestros obstáculos, es el que menos podemos cambiar, a lo mucho lo podemos retrasar, así que si es inevitable ¿Por qué temerle? Tomemos la muerte como inspiración para poder vivir cada día como si fuera el último, y buscar mejorar siempre. Preparémonos día a día para cuando partamos, y disfrutemos de la presencia del otro. Memento Mori, recuerda tu muerte.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
