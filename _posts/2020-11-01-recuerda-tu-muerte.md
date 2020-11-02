@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Memento Mori]({{site.baseurl}}/images/mementomori.jpeg)
 
