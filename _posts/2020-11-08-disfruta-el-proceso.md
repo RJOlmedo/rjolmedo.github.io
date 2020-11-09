@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Oscar Figueroa paso de 5to lugar a 1ro en 16 años de levantar pesas.]({{site.baseurl}}/images/figueroa.jpeg)
 
