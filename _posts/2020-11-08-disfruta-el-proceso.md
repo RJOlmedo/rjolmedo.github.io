@@ -17,3 +17,6 @@ Lo que pasa muchas veces, es que queremos que las cosas salgan a la primera, sen
 Lo que tenemos que llegar a entender es que, entre más queremos algo, más difícil se ve el conseguirlo, es por eso que debemos enfocarnos en el proceso, en la práctica en sí y solo de esta manera estaremos tranquilos con nosotros mismos venga el resultado que venga, porque la recompensa tan solo es una muestra de nuestro progreso, pero no es necesaria para sentirnos satisfechos.
 
 Aprendamos a analizar las situaciones de una manera aterrizada, no exageremos nuestros fracasos, pero tampoco celebremos de más nuestros éxitos, se trata de que mantengamos nuestros pies en la tierra, y veamos las adversidades de manera objetiva. Solo así podremos darnos cuenta, que la felicidad está en el camino.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
