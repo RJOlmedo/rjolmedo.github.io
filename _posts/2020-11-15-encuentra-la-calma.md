@@ -17,3 +17,6 @@ Ryan Holiday menciona en su libro Stillness Is the Key, lo siguiente: "El regalo
 Prácticamente lo que tenemos que hacer para poder terminar con la frustración que trae consigo la indecisión, es trabajar en nuestro ser, en las tres áreas que nos conforman, mente, cuerpo y espíritu. Lo anterior lo lograremos si trabajamos cada área en específico primero, intentando tener una mente clara, tranquilidad en nuestra alma y gentileza al expresarnos. Si intentamos día tras día vivir de esta manera podremos encontrar una mejora en nuestra persona a medida que el tiempo pase, es difícil, pero es el único camino.
 
 Es normal sentirse frustrado, ya que, a corto plazo puede parecer que cada decisión que tomemos es de vida o muerte, pero si dejamos que la calma entre en nuestras vidas, no solo podremos analizar de mejor manera cada opción, sino que también podremos tomar la que creemos que es mejor y estar satisfechos con eso, salga bien o mal eso se verá después, pero tenemos que buscar vivir este presente momento, porque como dice el título del libro de Ryan Holiday, “La Quietud Es la Clave”, solo así encontraremos la calma.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
