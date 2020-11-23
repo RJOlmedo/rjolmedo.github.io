@@ -11,5 +11,4 @@ Muchos tenemos gente que admiramos, ídolos o personas que nos inspiran, no es m
  
 Es fácil caer en la comparación con los demás, vivimos en un mundo altamente competitivo, pero el compararnos con otros, muchas veces trae más consecuencias negativas que positivas. El verdadero reto es intentar superarnos a nosotros mismos día tras día, perseguir a ese yo dentro de 10 años del que hablaba McConaughey, y tal vez así en nuestro lecho de muerte poder estar satisfechos y agradecidos de que cada día fuimos mejor.
 
-
-
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
