@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![Summum Bonum]({{site.baseurl}}/bonum.jpg)
+![Summum Bonum]({{site.baseurl}}/images/bonum.jpg)
 
 
 Hay momentos en los cuales nuestros principios son puestos a prueba, puede que estemos de acuerdo con muchas ideas y las vayamos predicando, pero en el actuar es cuando de verdad se muestran nuestras creencias. Es difícil tomar una decisión cuando se está entre la espada y la pared, y puede ser que muchas veces nos hayamos equivocado al estar en este tipo de situación. Para este tipo de ocasiones tal vez lo que hace falta es recordar que hay algo más alto que nosotros.
