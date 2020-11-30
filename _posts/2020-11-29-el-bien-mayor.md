@@ -17,3 +17,6 @@ El ego es algo que muchas veces nos sesga de lo anterior, a mi me pasa seguido, 
 Summum Bonum, un concepto proveniente de Cícero que significa “el bien mayor”, el bien mayor son nuestras virtudes, es hacer lo correcto, sin excusas, sin explicaciones, hacer lo que sabemos dentro de nosotros que es bueno y luego aprender de las consecuencias. Summum bonum es la mejor manera de poner en acción lo que hemos ido aprendiendo durante tantos años y darnos cuenta si estamos en lo correcto o necesitamos cambiar algo.
 
 El tomar decisiones difíciles es muy complicado, y es evidente que vamos a fallar muchas veces en este tipo de situaciones, pero lo mejor que podemos hacer es ir aprendiendo de ello e ir formándonos con base en ello, ya que nuestro conocimiento se pone a prueba en el actuar en sí. Marco Aurelio sabía que se iba a equivocar, pero sabía que lo importante era no perder el control de su razón, ya que solo así podía mejorar con base en cualquier situación. Somos parte de algo más grande, así que batallemos el ego y realicemos que debemos honrar ese bien mayor.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
