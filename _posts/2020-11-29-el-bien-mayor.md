@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Summum Bonum]({{site.baseurl}}/images/bonum.jpg)
 
