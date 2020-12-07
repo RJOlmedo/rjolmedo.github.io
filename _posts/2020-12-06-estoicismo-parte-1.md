@@ -11,16 +11,11 @@ El inversor y autor Tim Ferriss lo define como “un sistema operativo personal�
  El estoicismo empezó con un comerciante llamado Zenón de Citium, expandido por Cleantes y mejorado por Crisipo. Luego teniendo a tres grandes exponentes como lo son, Epicteto quien nació esclavo, Marco Aurelio quien fue probablemente el mejor emperador de Roma, y a Séneca asesor político y el mejor dramaturgo que tuvo Roma. En esta serie de tres artículos intentaré retratar los puntos más importantes de esta filosofía, así como también lo que me ha servido a mi de ella. En esta ocasión empezaremos por lo más básico, las cuatro virtudes estoicas: valentía, templanza, justicia y sabiduría.
  
 
-![Sam Altman and Elon Musk.]({{site.baseurl}}/images/samelon.jpg)
-
+![Las 4 virtudes clave del estoicismo]({{site.baseurl}}/images/virtues.png)
 
 La primera es la valentía, de la valentía es de donde las otras virtudes surgen, porque requiere de valentía para hacer lo correcto, si no tenemos valentía de nada sirve lo demás, ya que no podremos ponerlo en práctica. La valentía básicamente es definida por los estoicos como, decir la verdad y tomar riesgos por lo que nosotros creemos que es lo correcto.
 
 La siguiente es justicia, es común que cuando pensamos en justicia creemos que se limita al sistema judicial o a la legalidad, pero no, para los estoicos la justicia es hacer lo correcto para el bien común aunque nadie lo practique. “Haz lo correcto, lo demás no importa.” Dijo alguna vez Marco Aurelio.
-
-
-![Las 4 virtudes clave del estoicismo]({{site.baseurl}}/images/virtues.png)
-
 
 Templanza no es simplemente “no beber en exceso”, templanza es tener balance, es hacer la cantidad indicada de cosas de la manera correcta, y no hacer para nada cierto tipo de cosas. Podemos ver como incluso esta virtud aplica a las demás, tener demasiada valentía es caer en la imprudencia y no tener suficiente nos hace cobardes. Así que la templanza es el poder conocer la cantidad exacta de cada una de las otras virtudes.  
 
