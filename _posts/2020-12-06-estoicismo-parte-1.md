@@ -26,3 +26,6 @@ La última virtud para los estoicos es la sabiduría, es entender las cosas, es 
 
 
 Las virtudes anteriores están interconectadas y la manera más práctica de empezar a aplicar el estoicismo es pensar, ¿Hay alguna situación en la que no apliquen estas virtudes? Pues claro que no, en toda situación la mejor manera de resolverla siempre involucra alguna de estas virtudes. Bien decía Marco Aurelio “Si puedes encontrar cualquier cosa mejor en el mundo que, la valentía, la justicia, la templanza o la sabiduría, tiene que ser algo muy especial.” Pero no se puede encontrar algo mejor que ellas, por lo que intentar practicarlas es vivir de la mejor manera.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
