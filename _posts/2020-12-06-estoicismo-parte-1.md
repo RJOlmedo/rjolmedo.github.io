@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Los 3 estoicos más influyentes.]({{site.baseurl}}/images/stoics.jpg)
 
