@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![The Way, The Enemy y The Key, tres libros de Ryan Holiday sobre tres ideas estoicas.]({{site.baseurl}}/images/coleccionryan.jpg)
 
@@ -33,4 +33,3 @@ Puede ser que pensemos que meditar sobre nuestra muerte, es una manera de ser in
 El vivir con estas ideas, como si fueran mantras, como si fueran principios de nuestra vida, nos garantiza vivir las virtudes básicas y nos garantizan ser la mejor versión de nosotros mismos. Podemos ver a alguien como Elon Musk que le llaman no solo un micro manager, sino que un nano manager, es alguien que recuerda en su día a día que el ego es el enemigo y que debe estar en constante aprendizaje. Podemos ver a alguien como él mismo Ryan Holiday o Tim Ferriss que buscan en cada momento de su vida cumplir lo que les toca. En cualquier persona que admiremos podemos llegar a ver cómo consciente o inconscientemente, están poniendo en práctica estas ideas, así que porque no, empezar a practicarlas nosotros mismos.
 
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
-
