@@ -1,7 +1,7 @@
 ---
 published: false
 ---
-![The Way, The Enemy y The Key, tres libros de Ryan Holiday sobre tres ideas estoicas.]({{site.baseurl}}/images/coleccionryan.jpg )
+![The Way, The Enemy y The Key, tres libros de Ryan Holiday sobre tres ideas estoicas.]({{site.baseurl}}/images/coleccionryan.jpg)
 
 
 La semana pasada, definimos el Estoicismo, conocimos un poco de sus más grandes figuras, así como personas que son inspiradas por esta manera de vivir en el día a día, y luego de ello nos adentramos en las 4 virtudes del Estoicismo, las cuales son la base de esta filosofía. En el artículo de esta semana tocaremos lo que son las 7 ideas estoicas, que al practicarlas día tras día nos ayudarán a vivir las 4 virtudes de templanza, justicia, valentía y sabiduría. (cabe aclarar que ya hay artículos dedicados en específico para casi todas estas prácticas, estos se pueden encontrar en la página principal del blog)
@@ -15,7 +15,7 @@ Uno de los ejercicios más beneficiosos del estoicismo es el de “amor fati”,
 Parece extraño, pero, parece que los estoicos querían que tuviéramos expectativas bajas, Séneca habla del Praemeditatio Malorum, se trata de antes de tomar una acción, pensar en lo peor que podría pasar si realizamos esa acción. No en una búsqueda de angustia o de ansiedad, sino totalmente lo contrario, ver lo peor que puede pasar para darnos cuenta de que, no es tan malo después de todo.
 
 
-![Marco Aurelio, uno de los más grandes exponentes del estoicismo.]({{site.baseurl}}/images/emperador.webp )
+![Marco Aurelio, uno de los más grandes exponentes del estoicismo.]({{site.baseurl}}/images/emperador.webp)
 
 
 Otra práctica, muy relacionada con amor fati, es la que Ryan Holiday define como “El Obstáculo es el camino”, Marco Aurelio describe muy bien esta idea con la frase, “lo que impide a la acción anticipa a la acción, lo que impide al camino se convierte en el camino.” Claro que siempre quisiéramos que nos fuera lo mejor posible, pero hay veces que cosas ajenas a nosotros hacen que las cosas no salgan como esperamos, esta práctica consiste en voltear a los obstáculos y usarlos como la base para salir adelante.
@@ -31,3 +31,6 @@ Puede ser que pensemos que meditar sobre nuestra muerte, es una manera de ser in
 
 
 El vivir con estas ideas, como si fueran mantras, como si fueran principios de nuestra vida, nos garantiza vivir las virtudes básicas y nos garantizan ser la mejor versión de nosotros mismos. Podemos ver a alguien como Elon Musk que le llaman no solo un micro manager, sino que un nano manager, es alguien que recuerda en su día a día que el ego es el enemigo y que debe estar en constante aprendizaje. Podemos ver a alguien como él mismo Ryan Holiday o Tim Ferriss que buscan en cada momento de su vida cumplir lo que les toca. En cualquier persona que admiremos podemos llegar a ver cómo consciente o inconscientemente, están poniendo en práctica estas ideas, así que porque no, empezar a practicarlas nosotros mismos.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
