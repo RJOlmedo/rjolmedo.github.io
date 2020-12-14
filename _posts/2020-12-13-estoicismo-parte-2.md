@@ -4,6 +4,9 @@ published: true
 ![The Way, The Enemy y The Key, tres libros de Ryan Holiday sobre tres ideas estoicas.]({{site.baseurl}}/images/coleccionryan.jpg)
 
 
+Este es la segunda parte de esta serie, si no has leído la primera te recomiendo leer el articulo aquí.
+
+
 La semana pasada, definimos el Estoicismo, conocimos un poco de sus más grandes figuras, así como personas que son inspiradas por esta manera de vivir en el día a día, y luego de ello nos adentramos en las 4 virtudes del Estoicismo, las cuales son la base de esta filosofía. En el artículo de esta semana tocaremos lo que son las 7 ideas estoicas, que al practicarlas día tras día nos ayudarán a vivir las 4 virtudes de templanza, justicia, valentía y sabiduría. (cabe aclarar que ya hay artículos dedicados en específico para casi todas estas prácticas, estos se pueden encontrar en la página principal del blog)
 
 Hay muchas prácticas dentro del estoicismo, pero creo que estas siete son el centro de lo que podríamos llamar el código estoico, el centro de cómo ser una buena persona, del cómo entender cuál es nuestro propósito en este mundo, del cómo priorizar que estemos actuando de la manera correcta en cada momento. No están enlistadas en orden de importancia, cada una de ellas es igualmente importante y nos ayudarán a vivir siempre intentando ser la mejor versión de nosotros mismos.
