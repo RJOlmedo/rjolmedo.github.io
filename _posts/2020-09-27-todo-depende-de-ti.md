@@ -18,7 +18,6 @@ Si nos ponemos a pensar en lo anterior llegamos a realizar que todo depende de n
 
 Realmente por más irónico que suene, el echarle la culpa constantemente a los demás solo nos autosabotea y se lleva nuestra paz mental, la vida no es una sola batalla, es más bien como una guerra y si no estamos dispuestos a perder batallas con el fin de aprender, terminamos estancados por siempre.
 
+Para más sobre este tema, ve a este [video](https://www.youtube.com/watch?v=6Av6FnE-6DQ "Todo Depende de Ti").
+
 ¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mandame un tweet diciendo que opinaste a @rj_olmedo.
-
-
-
