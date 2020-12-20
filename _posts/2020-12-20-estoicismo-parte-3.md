@@ -1,6 +1,9 @@
 ---
 published: false
 ---
+**Este es la tercera parte de esta serie, si no has leído la primera, ni la segunda te recomiendo leer los artículos articulos [aquí](https://rjolmedo.github.io/estoicismo-parte-1/ "Estoicismo Parte 1") y [aquí](https://rjolmedo.github.io/estoicismo-parte-2/ "Estoicismo Parte 2").**
+
+
 En las dos semanas anteriores, nos adentramos en los conceptos básicos del estoicismo. Vimos primero los mayores exponentes, y personas que hoy en día aplican esta filosofía, también vimos las 4 virtudes básicas del estoicismo, y las 7 ideas clave para poder vivirlo. El día de hoy en este último artículo de esta serie, veremos recursos que nos pueden ayudar a aspirar a ser estoicos.
 
 Antes que nada quiero confesarte algo, la verdad es que esta pandemia se me ha hecho un poco difícil, el estar encerrado todo el rato llega a aburrir de vez en cuando, no poder ver tan seguido a tus amigos aveces llega a ser triste, y pues el tener clases en línea no está tan mal, pero, simplemente no es lo mismo. Seguramente te sientas identificado con lo anterior, y es que emocionalmente esta situación en la que vivimos nos ha afectado de alguna u otra manera, a todos. La frustración y el estrés se habían hecho demasiado para mí, no poder terminar presencial el colegio y empezar la universidad en línea se sentía extraño.
@@ -28,8 +31,3 @@ Finalmente otros recursos que pueden ayudar serian, el blog de Ryan Holiday, en 
 
 
 Todo lo anterior sirve para conocer sobre el estoicismo, pero de nada sirve si no lo aplicamos, la mejor manera de conocer el estoicismo, es en el día a día, enfocándonos en lo que depende de nosotros y hacer lo mejor posible en ello, muchas veces fallaremos, se nos va a olvidar o no tendremos ganas, pero lo que importa es levantarse e intentar ser constantes. Si has estado leyendo esta serie, de verdad te lo agradezco mucho y espero que te haya gustado, si quieres más contenido puedes seguirme en mi Instagram @rj_olmedo donde estoy empezando a crear más contenido. Nos vemos el próximo lunes con el último artículo del año.
-
-
-
-
-
