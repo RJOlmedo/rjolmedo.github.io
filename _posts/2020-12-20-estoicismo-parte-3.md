@@ -1,6 +1,9 @@
 ---
 published: false
 ---
+![Mi libro favorito, Meditaciones de Marco Aurelio. (Obviamente es una foto tomada por Ryan.)]({{site.baseurl}}/images/meditations.jpg)
+
+
 **Este es la tercera parte de esta serie, si no has leído la primera, ni la segunda te recomiendo leer los artículos articulos [aquí](https://rjolmedo.github.io/estoicismo-parte-1/ "Estoicismo Parte 1") y [aquí](https://rjolmedo.github.io/estoicismo-parte-2/ "Estoicismo Parte 2").**
 
 
@@ -10,6 +13,10 @@ Antes que nada quiero confesarte algo, la verdad es que esta pandemia se me ha h
 
 Al igual que a todos me sentía mal por todo lo que está pasando (y a veces lo sigo sintiendo), pero, un día escuche de Roberto Mtz una recomendación de un libro que me llamaría la atención y cambiaría mi perspectiva sobre las cosas. _Meditaciones de Marco Aurelio___ era el título, y según como lo describió Roberto, era de un emperador romano, el hombre más poderoso en sus tiempos, se sentaba, no sé si sabe si de noche o si de día, y escribía en este diario, sin pensar en su publicación, sin propósito alguno, solo con tal de mejorar a su persona. Al leer este libro mi mentalidad da un giro de 180 grados a como estaba viendo las cosas y descubro el estoicismo. Es por ello que lo menciono tanto, por lo que lo recomiendo tanto, porque me ha ayudado a valorar las cosas que tengo y a sacar lo mejor de ello.
 
+
+![Roberto Mtz, la causa de mi obsesión con el estoicismo.]({{site.baseurl}}/images/roberto.jpg)
+
+
 Una vez dicho lo anterior, cabe recalcar que al igual que todos estos artículos, los recursos que voy a recomendar en este artículo son basados en mi propio consumo, son recursos que yo mismo he leído, he escuchado o he visto, y realmente me han gustado.
 
 **Videos**
@@ -18,6 +25,10 @@ Empecemos por lo más superficial, los videos, fue justamente por donde continú
 
 **Podcasts**
 Aquí lo más fácil es irme también por el podcast de Ryan, que se titula al igual que su canal, “_Daily Stoic_”, pero realmente hay otros podcasts que también directa o indirectamente, hacen mención del estoicismo muy seguido y valen la pena mencionar, mis favoritos que hacen esto definitivamente son 2. El primero siendo “_The Tim Ferriss Show_” en el cual Tim Ferriss entrevista a personas como Matthew McConaughey, Arnold Schwarzenegger, Jerry Seinfeld o el mismo Ryan Holiday. El segundo es "_Creativo_" por Roberto Mtz, este la verdad que recientemente ha tenido una baja en la calidad de sus invitados, pero definitivamente recomiendo los episodios con [Farid Dieck](https://www.youtube.com/watch?v=FgbM5-f6s6o "CREATIVO #77 - FARID DIECK") y los con [Jose Madero](https://www.youtube.com/watch?v=PGesDEy96Nk "CREATIVO #56 - JOSÉ MADERO").
+
+
+![Ryan Holiday, ese es el tweet.]({{site.baseurl}}/images/ryan.jpg)
+
 
 **Libros**
 Hay algo importante a mencionar, los recursos anteriores sirven de mucho, pero realmente no estás conociendo el estoicismo, si no lees los libros sobre estoicismo. El mismo Ryan Holiday ha dicho que no solo se trata de ver los videos en su canal. Leer es importante para de verdad adentrarse en esta filosofía.
