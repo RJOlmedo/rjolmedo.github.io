@@ -42,3 +42,6 @@ Finalmente otros recursos que pueden ayudar serian, el blog de Ryan Holiday, en 
 
 
 Todo lo anterior sirve para conocer sobre el estoicismo, pero de nada sirve si no lo aplicamos, la mejor manera de conocer el estoicismo, es en el día a día, enfocándonos en lo que depende de nosotros y hacer lo mejor posible en ello, muchas veces fallaremos, se nos va a olvidar o no tendremos ganas, pero lo que importa es levantarse e intentar ser constantes. Si has estado leyendo esta serie, de verdad te lo agradezco mucho y espero que te haya gustado, si quieres más contenido puedes seguirme en mi Instagram **@rj_olmedo** donde estoy empezando a crear más contenido. Nos vemos el próximo lunes con el último artículo del año.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
