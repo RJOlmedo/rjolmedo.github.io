@@ -20,10 +20,12 @@ Al igual que a todos me sentía mal por todo lo que está pasando (y a veces lo 
 Una vez dicho lo anterior, cabe recalcar que al igual que todos estos artículos, los recursos que voy a recomendar en este artículo son basados en mi propio consumo, son recursos que yo mismo he leído, he escuchado o he visto, y realmente me han gustado.
 
 **Videos**
+
 Empecemos por lo más superficial, los videos, fue justamente por donde continúe, después de leer Meditaciones, y así empece a conocer más acerca del estoicismo. Si hay algún canal de YouTube que tengo que recomendar sobre el tema, definitivamente es el de “_Daily Stoic_” por Ryan Holiday, Ryan es sin duda la persona que mejor explica esta filosofía de vida en internet, si quieres comenzar por ver videos, definitivamente te recomiendo que veas primero su Ted Talk titulada, “_Memento Mori_” [aquí](https://www.youtube.com/watch?v=PexEwJnOz3s "Memento mori | Ryan Holiday | TEDxDunapart"). Además de Ryan recomiendo mucho ver las conferencias del profesor Massimo Pigliucci, las cuales son más que todo sobre teoría, pero realmente sirven para variar un poco. Otro canal que recomiendo, sobre todo para ver resúmenes después de leer un libro, es el de “_OPTIMIZE with Brian Johnson_”, sobre todo su sección de “_Philosopher's Notes_”, ya que muchas veces ayuda a ver claramente los conceptos más importantes de los libros.
 
 
 **Podcasts**
+
 Aquí lo más fácil es irme también por el podcast de Ryan, que se titula al igual que su canal, “_Daily Stoic_”, pero realmente hay otros podcasts que también directa o indirectamente, hacen mención del estoicismo muy seguido y valen la pena mencionar, mis favoritos que hacen esto definitivamente son 2. El primero siendo “_The Tim Ferriss Show_” en el cual Tim Ferriss entrevista a personas como Matthew McConaughey, Arnold Schwarzenegger, Jerry Seinfeld o el mismo Ryan Holiday. El segundo es "_Creativo_" por Roberto Mtz, este la verdad que recientemente ha tenido una baja en la calidad de sus invitados, pero definitivamente recomiendo los episodios con [Farid Dieck](https://www.youtube.com/watch?v=FgbM5-f6s6o "CREATIVO #77 - FARID DIECK") y los con [Jose Madero](https://www.youtube.com/watch?v=PGesDEy96Nk "CREATIVO #56 - JOSÉ MADERO").
 
 
@@ -31,6 +33,7 @@ Aquí lo más fácil es irme también por el podcast de Ryan, que se titula al i
 
 
 **Libros**
+
 Hay algo importante a mencionar, los recursos anteriores sirven de mucho, pero realmente no estás conociendo el estoicismo, si no lees los libros sobre estoicismo. El mismo Ryan Holiday ha dicho que no solo se trata de ver los videos en su canal. Leer es importante para de verdad adentrarse en esta filosofía.
 
 Dicho lo anterior, yo creo que para empezar a leer sobre el tema, tienes que seleccionar uno de los tres, ya sea Marco Aurelio, Epicteto o Séneca y leer sus obras. Esa es la mejor manera de empezar, porque así conoces los conceptos de raíz, mi recomendación personal es empezar por Meditaciones de Marco Aurelio, ya que es mi libro favorito, pero el Manual de Epicteto también es muy bueno.
@@ -38,6 +41,7 @@ Dicho lo anterior, yo creo que para empezar a leer sobre el tema, tienes que sel
 Luego de eso, hay solo un autor que se me viene a la mente, para realmente saber más sobre el tema, seguramente ya sepan a quién me refiero antes de leerlo, hablo del mismísimo Ryan Holiday. Su trilogía de “_The Way, The Enemy, The Key_”, desarrolla muy bien las ideas del estoicismo, usando ejemplos del día a día y si quieres saber más de la historia de los estoicos, “_The Lives of The Stoics_” recopila muy bien justo eso. 
 
 **Otros Recursos**
+
 Finalmente otros recursos que pueden ayudar serian, el blog de Ryan Holiday, en el que diariamente publica, que se llama también "_Daily Stoic_" y un excelente app que se llama "_Stoa_" que combina el _Mindfulness_ con el Estoicismo, así como también brinda recursos como conferencias o audios de historia.
 
 
