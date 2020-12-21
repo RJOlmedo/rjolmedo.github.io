@@ -19,8 +19,7 @@ Al igual que a todos me sentía mal por todo lo que está pasando (y a veces lo 
 
 Una vez dicho lo anterior, cabe recalcar que al igual que todos estos artículos, los recursos que voy a recomendar en este artículo son basados en mi propio consumo, son recursos que yo mismo he leído, he escuchado o he visto, y realmente me han gustado.
 
-**Videos**
-
+## **Videos**
 Empecemos por lo más superficial, los videos, fue justamente por donde continúe, después de leer Meditaciones, y así empece a conocer más acerca del estoicismo. Si hay algún canal de YouTube que tengo que recomendar sobre el tema, definitivamente es el de “_Daily Stoic_” por Ryan Holiday, Ryan es sin duda la persona que mejor explica esta filosofía de vida en internet, si quieres comenzar por ver videos, definitivamente te recomiendo que veas primero su Ted Talk titulada, “_Memento Mori_”, la cuál puedes encontrar [aquí](https://www.youtube.com/watch?v=PexEwJnOz3s "Memento Mori - Ryan Holiday").
 
 Además de Ryan recomiendo mucho ver las conferencias del profesor Massimo Pigliucci, las cuales son más que todo sobre teoría, pero realmente sirven para variar un poco. Otro canal que recomiendo, sobre todo para ver resúmenes después de leer un libro, es el de “_OPTIMIZE with Brian Johnson_”, sobre todo su sección de “_Philosopher's Notes_”, ya que muchas veces ayuda a ver claramente los conceptos más importantes de los libros.
