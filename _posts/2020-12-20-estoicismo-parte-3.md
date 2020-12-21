@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![Mi libro favorito, Meditaciones de Marco Aurelio. (Obviamente es una foto tomada por Ryan.)]({{site.baseurl}}/images/meditations.jpg)
 
