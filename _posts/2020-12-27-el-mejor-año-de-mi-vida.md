@@ -17,3 +17,6 @@ Al principio tal vez, no estaba tan mal, pero poco a poco, empecé a ver como am
 Empecé a salir de vez en cuando, y ver a amigos y familiares que tenía tanto tiempo sin ver, se sintió increíble, y me hizo valorar más a estas personas. Me empecé a dar cuenta que la universidad en línea, a medida que pasaba el tiempo no estaba tan mal, y pude sacar el mayor provecho de ella para aprender mucho y aprovechar los recursos que esta me da. Pasó el tiempo y ahora creo que a pesar de que prefiero volver a como estaba todo antes, acepto que esto siga, con tal de sacar lo mejor de la situación.
 
 Estamos viviendo un momento difícil, pero el que esto esté pasando no es algo que nosotros podamos controlar, no sabemos cuando va a terminar, y no sabemos qué más va a pasar, asegurémonos que saquemos el mayor provecho de cada situación, y vivamos siempre en el presente, buscando siempre ser la mejor versión de nosotros mismos.
+
+¡Gracias por leer! Si te gusto el artículo puedes compartirlo con tu familia y amigos. Mándame un tweet diciendo que opinaste a @rj_olmedo.
+
